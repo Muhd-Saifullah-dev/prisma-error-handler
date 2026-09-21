@@ -1,7 +1,11 @@
 {
-  "name": "prisma-errors-handler",
+  "name": "prisma-error-handler",
   "version": "1.0.0",
   "description": "A lightweight Prisma error handler for Node.js applications",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Muhd-Saifullah-dev/prisma-error-handler.git"
+  },
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "exports": {
